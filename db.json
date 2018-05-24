@@ -1,24 +1,22 @@
 [
-
   {
-    "id": 1,
-    "name": "gabriel",
-    "age": 21
-  },
-  {
-    "id": 2,
-    "name": "miguel",
-    "age": 21
-  },
-  {
-    "id": 3,
-    "name": "rique",
-    "age": 21
-  },
-  {
-    "id": 4,
-    "name": "ferreira",
-    "age": 21
-  },
-  
+		"id": 1,
+		"name": "gabriel",
+		"age": 21
+	},
+	{
+		"id": 2,
+		"name": "miguel",
+		"age": 21
+	},
+	{
+		"id": 3,
+		"name": "rique",
+		"age": 21
+	},
+	{
+		"id": 4,
+		"name": "ferreira",
+		"age": 21
+	}
 ]
