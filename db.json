@@ -1,7 +1,7 @@
 {
 	"mashies": [{
 			"id": 1,
-			"name": "mashie 2",
+			"name": "mashie 1",
 			"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin velit tellus, luctus sit amet sodales ac, dictum eu neque. Proin varius mi in nunc interdum",
 			"status": true
 		},
@@ -13,7 +13,7 @@
 		},
 		{
 			"id": 3,
-			"name": "mashie 2",
+			"name": "mashie 3",
 			"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin velit tellus, luctus sit amet sodales ac, dictum eu neque. Proin varius mi in nunc interdum",
 			"status": true
 		},
